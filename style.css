@@ -226,7 +226,7 @@ body {
 
 .content {
   position: relative;
-  width: 100vw;
+/*   width: 100vw; */
 }
 
 .image {
