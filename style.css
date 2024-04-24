@@ -394,24 +394,20 @@ input[type="radio"] {
   position: absolute;
   top: 50%;
   margin-top: 20px;
-  height: 30px;
-  width: 30px;
-  border-radius: 15px;
+  border-radius: 50px;
   background-color: rgba(95, 106, 117, 0.3);
   z-index: 1;
   line-height: 30px;
   text-align: center;
-  color: white;
+  color:white;
   font-weight: bold;
-  padding:2px
 }
 
 .testimonials .btn.next {
-  right: 15px;
+  right: 10px;
 }
 .testimonials .btn.prev {
-  left: 15px;
-  padding:2px
+  left: 10px;
 }
 .checked {
   color: orange;
@@ -424,6 +420,7 @@ input[type="radio"] {
       padding: 80px 30px 30px;
   }
 }
+
 .review-message{
   margin-top:25px;
   width:264px;
